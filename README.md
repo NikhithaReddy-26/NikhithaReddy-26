@@ -6,9 +6,9 @@
 - 👯 I’m looking to collaborate on Machine learning and Web Development. 
 ## Connect with me:
 
-<img align="left" alt="nikhitha@102 | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" alt="nikhitha-reddy26 | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="9_i_k_a | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://twitter.com/nikhitha102"><img align="left" alt="nikhitha@102 | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+<a href="https://www.linkedin.com/in/nikhitha-reddy26"><img align="left" alt="nikhitha-reddy26 | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.instagram.com/9_i_k_a/"><img align="left" alt="9_i_k_a | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 <br>
 
 
