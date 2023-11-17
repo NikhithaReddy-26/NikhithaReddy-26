@@ -1,9 +1,9 @@
 ### Hi there, I'm Nikhitha👋 
 # A Tech enthusiast & Constant learner!
 ### About Me:
-- 🌱 I’m currently pursuing Bachelor of Technology  in Computer science engineering.
+- 🌱 A recent graduate in Bachelor of Technology under Computer science engineering stream.
 -  💡 I’m interested in learning all possible technical skills, which I'm capable of!😀  
-- 👯 I’m looking to collaborate on Machine learning and Web Development. 
+- 👯 I’m looking to collaborate on Web Development. 
 ## Connect with me:
 
 <a href=""><img align="left" alt=" | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
